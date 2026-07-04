@@ -4,6 +4,12 @@ I'm Roy, a software engineer with years of experience in client-side software de
 
 I ❤ open source and enjoy exploring new technologies. I'm currently learning and building with Go, while actively contributing to open-source projects.
 
-If you're interested in Go, client-side development, or open source, feel free to connect me and chat! 😊
+If you're interested in Go, client-side development, or open source, feel free to connect with me and chat! 😊
 
 <img src="./assets/header_.png" alt="Tech Stack Banner" width="100%" />
+
+## 🚀 Currently
+
+- Learning and building with Go
+- Exploring cloud-native technologies
+- Contributing to open-source projects
