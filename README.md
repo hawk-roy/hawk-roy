@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy! 👋
 
 I'm Roy, a software engineer with years of experience in client-side software development.
 
