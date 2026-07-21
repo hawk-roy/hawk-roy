@@ -8,6 +8,11 @@ If you're interested in Go, client-side development, or open source, feel free t
 
 <p align="center">
   <img
+    src="./assets/header_.png"
+    alt="Go."
+    width="100%"
+  />
+  <img
     src="./assets/header_fourth.png"
     alt="Make it exist first. Make it good later."
     width="100%"
