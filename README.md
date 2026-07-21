@@ -6,7 +6,13 @@ I ❤ open source and enjoy exploring new technologies. I'm currently learning a
 
 If you're interested in Go, client-side development, or open source, feel free to connect with me and chat! 😊
 
-<img src="./assets/header_thired.png" alt="Tech Stack Banner" width="100%" />
+<p align="center">
+  <img
+    src="./assets/header_fourth.png"
+    alt="Make it exist first. Make it good later."
+    width="100%"
+  />
+</p>
 
 ## 🚀 Currently
 
