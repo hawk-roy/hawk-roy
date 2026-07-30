@@ -21,6 +21,6 @@ If you're interested in Go, client-side development, or open source, feel free t
 
 ## 🚀 Currently
 
-- Learning and building with Go
+- Learning and building with Go & Python & Own product named Dinghai Vision
 - Exploring cloud-native technologies
 - Contributing to open-source projects
